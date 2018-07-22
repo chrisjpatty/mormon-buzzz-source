@@ -4,18 +4,33 @@ backend:
 
 media_folder: "public/uploads" # Media files will be stored in the repo under public/uploads
 public_folder: "/uploads" # Folder path where uploaded files will be accessed, relative to the base of the built site
+publish_mode: editorial_workflow
 
 collections:
-  - name: "blog" # Used in routes, e.g., /admin/collections/blog
-    label: "Post" # Used in the UI
-    folder: "src/posts" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    fields: # The fields for each document, usually in front matter. 
-    # Remove any that aren't needed for posts
-      - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+  - name: "blog"
+    label: "Posts"
+    folder: "src/posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Author", name: "author", widget: "relation", collection: "authors", searchFields: ["title"], valueField: "title", displayFields: ["title"]}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Featured Image", name: "thumbnail", widget: "image"}
-      - {label: "Rating (scale of 1-5)", name: "rating", widget: "number"}
+      - {label: "Description", name: "description", widget: "text", "required": false}
       - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Tags", name: "tags", widget: "list", "required": false}
+      - {label: "Featured Image", name: "featuredImg", widget: "image", width: "list", "required": false}
+      - {label: "Facebook Link Image (Defaults to featured image)", name: "fbLinkImg", widget: "image", "required": false}
+
+  - name: "authors"
+    label: "Authors"
+    folder: "src/pages/authors"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "author-page"}
+      - {label: "Author Name", name: "title", widget: "string"}
+      - {label: "Author ID", name: "authId", widget: "string"}
+      - {label: "Biography", name: "bio", widget: "markdown"}
+      - {label: "Image", name: "image", widget: image}
