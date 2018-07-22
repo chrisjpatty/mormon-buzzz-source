@@ -25,7 +25,7 @@ collections:
 
   - name: "authors"
     label: "Authors"
-    folder: "src/pages/authors"
+    folder: "src/authors"
     create: true
     slug: "{{slug}}"
     fields:
