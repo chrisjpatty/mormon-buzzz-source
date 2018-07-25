@@ -2,6 +2,8 @@ const fs = require('fs')
 const klaw = require('klaw')
 const path = require('path')
 const matter = require('gray-matter')
+const orderBy = require('lodash/orderby')
+const { getTop10Paths } = require('./analytics')
 
 function getPosts () {
   const items = []
@@ -18,7 +20,7 @@ function getPosts () {
             // Convert to frontmatter object and markdown content //
             const dataObj = matter(data)
             // Create slug for URL //
-            dataObj.data.slug = dataObj.data.title.toLowerCase().replace(/ /g, '-').replace(/[^\w-]+/g, '')
+            dataObj.data.slug = dataObj.data.slug || dataObj.data.title.toLowerCase().replace(/ /g, '-').replace(/[^\w-]+/g, '')
             // Remove unused key //
             delete dataObj.orig
             // Push object into items array //
@@ -41,6 +43,10 @@ function getPosts () {
   return getFiles()
 }
 
+const getTopPostsFromPaths = (paths, posts) =>
+  paths.map(path => posts.find(post => post.slug === path) || path)
+
+
 export default {
 
   getSiteData: () => ({
@@ -48,28 +54,29 @@ export default {
   }),
   getRoutes: async () => {
     const posts = await getPosts()
+    const postPreviews = orderBy(posts.map(post => post.data), ['date'], ['desc'])
+    const topPaths = await getTop10Paths()
+    const topPosts = getTopPostsFromPaths(topPaths, postPreviews)
     return [
       {
         path: '/',
         component: 'src/containers/Home',
-      },
-      {
-        path: '/about',
-        component: 'src/containers/About',
-      },
-      {
-        path: '/blog',
-        component: 'src/containers/Blog',
         getData: () => ({
-          posts,
+          posts: postPreviews,
+          topPosts,
+          topPaths
         }),
         children: posts.map(post => ({
-          path: `/post/${post.data.slug}`,
+          path: `/${post.data.slug}`,
           component: 'src/containers/Post',
           getData: () => ({
             post,
           }),
-        })),
+        }))
+      },
+      {
+        path: '/about',
+        component: 'src/containers/About',
       },
       {
         is404: true,

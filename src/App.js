@@ -6,19 +6,30 @@ import Routes from 'react-static-routes'
 
 import './app.css'
 
-const App = () => (
-  <Router>
-    <div>
-      <nav>
-        <Link to="/">Home</Link>
-        <Link to="/about">About</Link>
-        <Link to="/blog">Blog</Link>
-      </nav>
-      <div className="content">
-        <Routes />
-      </div>
-    </div>
-  </Router>
-)
+class App extends React.Component{
+  componentDidUpdate = () => {
+    if(process){
+      if(process.env.NODE_ENV === 'development'){
+        window.location.reload()
+      }
+    }
+  }
+  render(){
+    return(
+      <Router>
+        <div>
+          <nav>
+            <Link to="/">Home</Link>
+            <Link to="/about">About</Link>
+            <Link to="/blog">Blog</Link>
+          </nav>
+          <div className="content">
+            <Routes />
+          </div>
+        </div>
+      </Router>
+    )
+  }
+}
 
 export default hot(module)(App)
