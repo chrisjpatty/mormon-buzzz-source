@@ -6,6 +6,7 @@ date: 2015-12-24 17:04:23+00:00
 layout: post
 link: http://mormonbuzzz.com/jamesthemormon-raps-up-the-holidays-with-an-amazing-service-project/
 slug: jamesthemormon-raps-up-the-holidays-with-an-amazing-service-project
+legacySlug: jamesthemormon-raps-up-the-holidays-with-an-amazing-service-project
 title: Jamesthemormon Raps Up the Holidays With An Amazing Service Project
 wordpress_id: 1375
 categories:

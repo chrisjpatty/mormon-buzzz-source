@@ -6,6 +6,7 @@ date: 2015-03-27 23:23:39+00:00
 layout: post
 link: http://mormonbuzzz.com/4-things-quiet-members-ward-want-know/
 slug: 4-things-quiet-members-ward-want-know
+legacySlug: 4-things-quiet-members-ward-want-know
 title: 4 Things the Quiet Members of Your Ward Want You to Know
 wordpress_id: 134
 categories:

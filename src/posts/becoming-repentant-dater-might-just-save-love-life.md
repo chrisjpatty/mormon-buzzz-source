@@ -6,6 +6,7 @@ date: 2017-01-06 05:05:51+00:00
 layout: post
 link: http://mormonbuzzz.com/becoming-repentant-dater-might-just-save-love-life/
 slug: becoming-repentant-dater-might-just-save-love-life
+legacySlug: becoming-repentant-dater-might-just-save-love-life
 title: Becoming a “Repentant Dater” Might Just Save Your Love Life
 wordpress_id: 2027
 categories:

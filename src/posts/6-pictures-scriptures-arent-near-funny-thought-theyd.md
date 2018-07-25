@@ -6,6 +6,7 @@ date: 2016-04-02 03:38:34+00:00
 layout: post
 link: http://mormonbuzzz.com/6-pictures-2016-candidates-holding-scriptures-arent-near-funny-thought-theyd/
 slug: 6-pictures-2016-candidates-holding-scriptures-arent-near-funny-thought-theyd
+legacySlug: 6-pictures-2016-candidates-holding-scriptures-arent-near-funny-thought-theyd
 title: 5 Pictures of 2016 Candidates Holding Scriptures That Aren't Near as Funny
   as We Thought They'd Be
 wordpress_id: 1546

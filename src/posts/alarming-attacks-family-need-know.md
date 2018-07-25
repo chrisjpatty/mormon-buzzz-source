@@ -6,6 +6,7 @@ date: 2015-04-27 23:18:01+00:00
 layout: post
 link: http://mormonbuzzz.com/alarming-attacks-family-need-know/
 slug: alarming-attacks-family-need-know
+legacySlug: alarming-attacks-family-need-know
 title: Alarming Attacks on the Family You Need to Know About
 wordpress_id: 546
 categories:

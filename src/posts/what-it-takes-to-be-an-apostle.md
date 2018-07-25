@@ -6,6 +6,7 @@ date: 2015-10-01 06:27:34+00:00
 layout: post
 link: http://mormonbuzzz.com/what-it-takes-to-be-an-apostle/
 slug: what-it-takes-to-be-an-apostle
+legacySlug: what-it-takes-to-be-an-apostle
 title: What It Takes to be an Apostle
 wordpress_id: 1176
 categories:

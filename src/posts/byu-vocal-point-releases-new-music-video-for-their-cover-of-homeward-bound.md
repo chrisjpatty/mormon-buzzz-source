@@ -6,6 +6,7 @@ date: 2015-05-13 00:00:00+00:00
 layout: post
 link: http://mormonbuzzz.com/byu-vocal-point-releases-new-music-video-for-their-cover-of-homeward-bound/
 slug: byu-vocal-point-releases-new-music-video-for-their-cover-of-homeward-bound
+legacySlug: byu-vocal-point-releases-new-music-video-for-their-cover-of-homeward-bound
 title: BYU Vocal Point Releases New Music Video for Their Cover of "Homeward Bound"
 wordpress_id: 672
 categories:

@@ -6,6 +6,7 @@ date: 2015-06-05 16:00:00+00:00
 layout: post
 link: http://mormonbuzzz.com/5-events-that-will-make-you-believe-in-miracles-again/
 slug: 5-events-that-will-make-you-believe-in-miracles-again
+legacySlug: 5-events-that-will-make-you-believe-in-miracles-again
 title: 5 Events that Will Make You Believe in Miracles Again
 wordpress_id: 747
 categories:

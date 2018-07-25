@@ -6,6 +6,7 @@ date: 2016-12-15 21:48:54+00:00
 layout: post
 link: http://mormonbuzzz.com/new-gospel-library-update-adds-split-screen-support/
 slug: new-gospel-library-update-adds-split-screen-support
+legacySlug: new-gospel-library-update-adds-split-screen-support
 title: New Gospel Library Update Adds Split Screen, Multitasking, and More
 wordpress_id: 2014
 categories:

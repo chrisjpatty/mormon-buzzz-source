@@ -6,6 +6,7 @@ date: 2015-04-24 20:30:29+00:00
 layout: post
 link: http://mormonbuzzz.com/samwise-gamgee-gospel-jesus-christ/
 slug: samwise-gamgee-gospel-jesus-christ
+legacySlug: samwise-gamgee-gospel-jesus-christ
 title: What Sam Can Teach Us About Service In The Church
 wordpress_id: 473
 categories:

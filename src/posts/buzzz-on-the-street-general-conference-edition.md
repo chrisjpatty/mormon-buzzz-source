@@ -6,6 +6,7 @@ date: 2015-10-10 07:40:37+00:00
 layout: post
 link: http://mormonbuzzz.com/buzzz-on-the-street-general-conference-edition/
 slug: buzzz-on-the-street-general-conference-edition
+legacySlug: buzzz-on-the-street-general-conference-edition
 title: 'Buzzz on the street: General Conference Edition'
 wordpress_id: 1201
 categories:

@@ -6,6 +6,7 @@ date: 2015-05-04 20:43:42+00:00
 layout: post
 link: http://mormonbuzzz.com/definitive-proof-jedi-council-quorum-12-thing/
 slug: definitive-proof-jedi-council-quorum-12-thing
+legacySlug: definitive-proof-jedi-council-quorum-12-thing
 title: Definitive Proof the Jedi Council and Quorum of the 12 are the Same Thing
 wordpress_id: 599
 categories:

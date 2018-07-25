@@ -6,6 +6,7 @@ date: 2016-01-29 08:16:05+00:00
 layout: post
 link: http://mormonbuzzz.com/if-disney-characters-were-lds/
 slug: if-disney-characters-were-lds
+legacySlug: if-disney-characters-were-lds
 title: If Disney Characters Were Mormon
 wordpress_id: 1389
 categories:

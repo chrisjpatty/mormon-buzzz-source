@@ -6,6 +6,7 @@ date: 2015-10-25 16:31:04+00:00
 layout: post
 link: http://mormonbuzzz.com/the-church-released-2-new-essays-and-you-should-definitely-read-them/
 slug: the-church-released-2-new-essays-and-you-should-definitely-read-them
+legacySlug: the-church-released-2-new-essays-and-you-should-definitely-read-them
 title: The Church Released 2 New Essays And You Should Definitely Read Them
 wordpress_id: 1236
 categories:

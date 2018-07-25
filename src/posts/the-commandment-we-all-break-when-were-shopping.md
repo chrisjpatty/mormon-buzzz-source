@@ -6,6 +6,7 @@ date: 2015-08-07 23:50:20+00:00
 layout: post
 link: http://mormonbuzzz.com/the-commandment-we-all-break-when-were-shopping/
 slug: the-commandment-we-all-break-when-were-shopping
+legacySlug: the-commandment-we-all-break-when-were-shopping
 title: The Commandment We All Break When We're Shopping
 wordpress_id: 1074
 categories:

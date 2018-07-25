@@ -6,6 +6,7 @@ date: 2015-07-25 01:19:00+00:00
 layout: post
 link: http://mormonbuzzz.com/if-millennials-were-pioneers/
 slug: if-millennials-were-pioneers
+legacySlug: if-millennials-were-pioneers
 title: If Millennials Had Been Pioneers
 wordpress_id: 1013
 categories:

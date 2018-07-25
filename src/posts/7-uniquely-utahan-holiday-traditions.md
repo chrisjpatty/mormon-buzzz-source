@@ -6,6 +6,7 @@ date: 2016-12-15 04:42:32+00:00
 layout: post
 link: http://mormonbuzzz.com/7-uniquely-utahan-holiday-traditions/
 slug: 7-uniquely-utahan-holiday-traditions
+legacySlug: 7-uniquely-utahan-holiday-traditions
 title: 7 Christmas Traditions You'll Only Find in Utah
 wordpress_id: 2003
 categories:

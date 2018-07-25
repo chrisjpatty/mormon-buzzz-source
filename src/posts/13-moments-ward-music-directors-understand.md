@@ -6,6 +6,7 @@ date: 2015-04-13 14:00:38+00:00
 layout: post
 link: http://mormonbuzzz.com/13-moments-ward-music-directors-understand/
 slug: 13-moments-ward-music-directors-understand
+legacySlug: 13-moments-ward-music-directors-understand
 title: 13 Moments Only Ward Music Directors Understand
 wordpress_id: 115
 categories:

@@ -6,6 +6,7 @@ date: 2016-04-05 23:30:04+00:00
 layout: post
 link: http://mormonbuzzz.com/7-times-saturday-conference-gave-us-feels/
 slug: 7-times-saturday-conference-gave-us-feels
+legacySlug: 7-times-saturday-conference-gave-us-feels
 title: 10 Times General Conference Gave Us All the Feels
 wordpress_id: 1566
 categories:

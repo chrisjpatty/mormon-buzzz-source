@@ -6,6 +6,7 @@ date: 2016-07-24 05:25:56+00:00
 layout: post
 link: http://mormonbuzzz.com/didnt-know-mormon-pioneer-trek/
 slug: didnt-know-mormon-pioneer-trek
+legacySlug: didnt-know-mormon-pioneer-trek
 title: What You Didn't Know About the Mormon Pioneer Trek
 wordpress_id: 1860
 categories:

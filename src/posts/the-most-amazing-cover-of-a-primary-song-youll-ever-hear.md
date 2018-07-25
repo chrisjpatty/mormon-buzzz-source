@@ -6,6 +6,7 @@ date: 2015-04-20 20:00:00+00:00
 layout: post
 link: http://mormonbuzzz.com/the-most-amazing-cover-of-a-primary-song-youll-ever-hear/
 slug: the-most-amazing-cover-of-a-primary-song-youll-ever-hear
+legacySlug: the-most-amazing-cover-of-a-primary-song-youll-ever-hear
 title: This Primary Song Cover Made Us Feel All the Feels
 wordpress_id: 456
 categories:

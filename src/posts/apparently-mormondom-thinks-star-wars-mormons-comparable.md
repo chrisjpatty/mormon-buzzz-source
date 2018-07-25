@@ -6,6 +6,7 @@ date: 2015-05-05 18:37:33+00:00
 layout: post
 link: http://mormonbuzzz.com/apparently-mormondom-thinks-star-wars-mormons-comparable/
 slug: apparently-mormondom-thinks-star-wars-mormons-comparable
+legacySlug: apparently-mormondom-thinks-star-wars-mormons-comparable
 title: All of Mormondom Compared Star Wars and Mormons for May 4th
 wordpress_id: 559
 categories:

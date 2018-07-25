@@ -6,6 +6,7 @@ date: 2016-05-28 23:17:21+00:00
 layout: post
 link: http://mormonbuzzz.com/marvel-characters-reimagined/
 slug: marvel-characters-reimagined
+legacySlug: marvel-characters-reimagined
 title: Popular Mormon Ads Reimagined with Marvel Characters
 wordpress_id: 1718
 categories:

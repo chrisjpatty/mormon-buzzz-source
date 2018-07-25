@@ -6,6 +6,7 @@ date: 2015-04-01 11:00:02+00:00
 layout: post
 link: http://mormonbuzzz.com/ive-stopped-leaving-room-motab-starts-singing/
 slug: ive-stopped-leaving-room-motab-starts-singing
+legacySlug: ive-stopped-leaving-room-motab-starts-singing
 title: Why I've Stopped Leaving the Room When MoTab Starts Singing
 wordpress_id: 261
 categories:

@@ -6,6 +6,7 @@ date: 2016-08-11 00:42:32+00:00
 layout: post
 link: http://mormonbuzzz.com/trial-nearly-killed-taught-gratitude/
 slug: trial-nearly-killed-taught-gratitude
+legacySlug: trial-nearly-killed-taught-gratitude
 title: How the Trial that Nearly Killed Me Taught Me Gratitude
 wordpress_id: 1865
 categories:

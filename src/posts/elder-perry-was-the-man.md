@@ -6,6 +6,7 @@ date: 2015-05-31 03:14:41+00:00
 layout: post
 link: http://mormonbuzzz.com/elder-perry-was-the-man/
 slug: elder-perry-was-the-man
+legacySlug: elder-perry-was-the-man
 title: 10 Times Elder Perry Proved He Was the Man
 wordpress_id: 721
 categories:

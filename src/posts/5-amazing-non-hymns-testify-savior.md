@@ -6,6 +6,7 @@ date: 2015-03-26 03:12:10+00:00
 layout: post
 link: http://mormonbuzzz.com/5-amazing-non-hymns-testify-savior/
 slug: 5-amazing-non-hymns-testify-savior
+legacySlug: 5-amazing-non-hymns-testify-savior
 title: 5 Amazing Non-Hymns that Testify of the Savior
 wordpress_id: 95
 tags:

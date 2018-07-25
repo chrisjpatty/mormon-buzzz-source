@@ -6,6 +6,7 @@ date: 2016-07-16 21:09:13+00:00
 layout: post
 link: http://mormonbuzzz.com/forget-tragedy-strikes/
 slug: forget-tragedy-strikes
+legacySlug: forget-tragedy-strikes
 title: What We Forget When Tragedy Strikes
 wordpress_id: 1852
 categories:

@@ -6,6 +6,7 @@ date: 2016-08-17 01:25:40+00:00
 layout: post
 link: http://mormonbuzzz.com/lds-entrepreneur-launches-project-save-missions-culture/
 slug: lds-entrepreneur-launches-project-save-missions-culture
+legacySlug: lds-entrepreneur-launches-project-save-missions-culture
 title: LDS Entrepreneur Launches Project to Save His Mission's Culture
 wordpress_id: 1873
 categories:

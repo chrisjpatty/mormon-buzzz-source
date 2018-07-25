@@ -6,6 +6,7 @@ date: 2015-04-25 13:30:44+00:00
 layout: post
 link: http://mormonbuzzz.com/preview-the-payson-temple-open-house-with-this-video-tour/
 slug: preview-the-payson-temple-open-house-with-this-video-tour
+legacySlug: preview-the-payson-temple-open-house-with-this-video-tour
 title: Preview the Payson Temple Open House With This Video Tour
 wordpress_id: 516
 categories:

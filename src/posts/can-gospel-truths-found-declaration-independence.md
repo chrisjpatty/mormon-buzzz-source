@@ -6,6 +6,7 @@ date: 2015-07-04 19:26:34+00:00
 layout: post
 link: http://mormonbuzzz.com/can-gospel-truths-found-declaration-independence/
 slug: can-gospel-truths-found-declaration-independence
+legacySlug: can-gospel-truths-found-declaration-independence
 title: Can Gospel Truths Be Found in the Declaration of Independence?
 wordpress_id: 935
 categories:

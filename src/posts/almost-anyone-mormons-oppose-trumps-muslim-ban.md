@@ -6,6 +6,7 @@ date: 2017-01-29 00:58:03+00:00
 layout: post
 link: http://mormonbuzzz.com/almost-anyone-mormons-oppose-trumps-muslim-ban/
 slug: almost-anyone-mormons-oppose-trumps-muslim-ban
+legacySlug: almost-anyone-mormons-oppose-trumps-muslim-ban
 title: More Than Almost Anyone, Mormons Should Oppose Trump's Muslim Ban
 wordpress_id: 2038
 categories:

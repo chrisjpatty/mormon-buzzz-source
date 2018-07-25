@@ -6,6 +6,7 @@ date: 2015-04-11 14:00:10+00:00
 layout: post
 link: http://mormonbuzzz.com/not-mr-collins-singles-ward/
 slug: not-mr-collins-singles-ward
+legacySlug: not-mr-collins-singles-ward
 title: How to Not Be the Mr. Collins of Your Singles Ward
 wordpress_id: 375
 categories:

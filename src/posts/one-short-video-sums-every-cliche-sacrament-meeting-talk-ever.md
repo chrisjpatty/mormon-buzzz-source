@@ -6,6 +6,7 @@ date: 2015-05-13 21:00:00+00:00
 layout: post
 link: http://mormonbuzzz.com/one-short-video-sums-every-cliche-sacrament-meeting-talk-ever/
 slug: one-short-video-sums-every-cliche-sacrament-meeting-talk-ever
+legacySlug: one-short-video-sums-every-cliche-sacrament-meeting-talk-ever
 title: This Short Video Sums Up Every Sacrament Meeting Cliché
 wordpress_id: 497
 categories:

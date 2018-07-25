@@ -6,6 +6,7 @@ date: 2015-03-29 22:00:00+00:00
 layout: post
 link: http://mormonbuzzz.com/apostle-doppelgangers/
 slug: apostle-doppelgangers
+legacySlug: apostle-doppelgangers
 title: Crazy LDS Apostle Lookalikes
 wordpress_id: 36
 categories:

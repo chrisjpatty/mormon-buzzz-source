@@ -6,6 +6,7 @@ date: 2015-04-07 21:00:00+00:00
 layout: post
 link: http://mormonbuzzz.com/4-ways-christlike-online/
 slug: 4-ways-christlike-online
+legacySlug: 4-ways-christlike-online
 title: 4 Ways to Be More Christlike Online
 wordpress_id: 335
 categories:

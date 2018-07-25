@@ -6,6 +6,7 @@ date: 2016-04-24 20:20:39+00:00
 layout: post
 link: http://mormonbuzzz.com/finding-compassion-addiction/
 slug: finding-compassion-addiction
+legacySlug: finding-compassion-addiction
 title: Finding Compassion Through Addiction
 wordpress_id: 1602
 categories:

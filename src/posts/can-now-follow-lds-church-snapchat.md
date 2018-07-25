@@ -6,6 +6,7 @@ date: 2016-09-08 19:50:15+00:00
 layout: post
 link: http://mormonbuzzz.com/can-now-follow-lds-church-snapchat/
 slug: can-now-follow-lds-church-snapchat
+legacySlug: can-now-follow-lds-church-snapchat
 title: You Can Now Follow the LDS Church on Snapchat
 wordpress_id: 1902
 categories:

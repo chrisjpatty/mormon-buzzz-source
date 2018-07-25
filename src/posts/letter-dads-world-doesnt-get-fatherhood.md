@@ -6,6 +6,7 @@ date: 2015-06-20 19:41:15+00:00
 layout: post
 link: http://mormonbuzzz.com/letter-dads-world-doesnt-get-fatherhood/
 slug: letter-dads-world-doesnt-get-fatherhood
+legacySlug: letter-dads-world-doesnt-get-fatherhood
 title: A Letter to Dads in a World that Doesn't Get Fatherhood
 wordpress_id: 880
 categories:

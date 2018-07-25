@@ -6,6 +6,7 @@ date: 2016-05-21 02:36:07+00:00
 layout: post
 link: http://mormonbuzzz.com/sister-missionaries-virus-heavy-areas-now-able-wear-pants/
 slug: sister-missionaries-virus-heavy-areas-now-able-wear-pants
+legacySlug: sister-missionaries-virus-heavy-areas-now-able-wear-pants
 title: Sister Missionaries in Disease-Impacted Areas Now Able to Wear Pants
 wordpress_id: 1651
 categories:

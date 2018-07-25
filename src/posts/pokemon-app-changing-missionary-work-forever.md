@@ -6,6 +6,7 @@ date: 2016-07-15 02:16:36+00:00
 layout: post
 link: http://mormonbuzzz.com/pokemon-app-changing-missionary-work-forever/
 slug: pokemon-app-changing-missionary-work-forever
+legacySlug: pokemon-app-changing-missionary-work-forever
 title: This Pokemon Inspired App is Changing Missionary Work Forever
 wordpress_id: 1843
 categories:

@@ -6,6 +6,7 @@ date: 2015-10-26 16:19:58+00:00
 layout: post
 link: http://mormonbuzzz.com/lds-rap-this-mormon-is-proving-it-has-a-place/
 slug: lds-rap-this-mormon-is-proving-it-has-a-place
+legacySlug: lds-rap-this-mormon-is-proving-it-has-a-place
 title: LDS Rap? This Mormon Is Proving It Has A Place
 wordpress_id: 1247
 categories:

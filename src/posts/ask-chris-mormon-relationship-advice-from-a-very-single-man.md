@@ -6,6 +6,7 @@ date: 2016-02-12 09:57:39+00:00
 layout: post
 link: http://mormonbuzzz.com/ask-chris-mormon-relationship-advice-from-a-very-single-man/
 slug: ask-chris-mormon-relationship-advice-from-a-very-single-man
+legacySlug: ask-chris-mormon-relationship-advice-from-a-very-single-man
 title: 'Ask Chris: Mormon Relationship Advice from a Very Single Man'
 wordpress_id: 1451
 categories:

@@ -6,6 +6,7 @@ date: 2015-06-17 16:00:00+00:00
 layout: post
 link: http://mormonbuzzz.com/message-might-missed-johnny-lingo/
 slug: message-might-missed-johnny-lingo
+legacySlug: message-might-missed-johnny-lingo
 title: The Message You Might Have Missed in Johnny Lingo
 wordpress_id: 754
 categories:

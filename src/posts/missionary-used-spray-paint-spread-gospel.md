@@ -6,6 +6,7 @@ date: 2015-07-01 20:56:24+00:00
 layout: post
 link: http://mormonbuzzz.com/missionary-used-spray-paint-spread-gospel/
 slug: missionary-used-spray-paint-spread-gospel
+legacySlug: missionary-used-spray-paint-spread-gospel
 title: How One Missionary Used Spray Paint To Spread the Gospel
 wordpress_id: 924
 categories:

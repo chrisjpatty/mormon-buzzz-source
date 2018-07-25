@@ -6,6 +6,7 @@ date: 2015-05-10 03:11:47+00:00
 layout: post
 link: http://mormonbuzzz.com/amazing-videos-tribute-to-mom/
 slug: amazing-videos-tribute-to-mom
+legacySlug: amazing-videos-tribute-to-mom
 title: 5 Amazing Videos That Give Tribute to Mom
 wordpress_id: 646
 categories:

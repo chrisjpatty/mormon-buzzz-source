@@ -6,6 +6,7 @@ date: 2015-05-28 21:06:35+00:00
 layout: post
 link: http://mormonbuzzz.com/how-we-imagined-missionaries-are-assigned-vs-reality/
 slug: how-we-imagined-missionaries-are-assigned-vs-reality
+legacySlug: how-we-imagined-missionaries-are-assigned-vs-reality
 title: 'How the Apostles Assign Missionaries: Expectation vs. Reality'
 wordpress_id: 711
 categories:

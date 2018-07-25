@@ -6,6 +6,7 @@ date: 2016-05-16 23:03:29+00:00
 layout: post
 link: http://mormonbuzzz.com/jamesthemormon-just-dropped-new-music-video/
 slug: jamesthemormon-just-dropped-new-music-video
+legacySlug: jamesthemormon-just-dropped-new-music-video
 title: Jamesthemormon Just Dropped a New Music Video to Let Everyone Know They're
   Treasure
 wordpress_id: 1641

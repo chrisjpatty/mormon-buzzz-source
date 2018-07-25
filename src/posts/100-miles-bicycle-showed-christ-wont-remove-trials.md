@@ -6,6 +6,7 @@ date: 2016-09-01 23:48:22+00:00
 layout: post
 link: http://mormonbuzzz.com/100-miles-bicycle-showed-christ-wont-remove-trials/
 slug: 100-miles-bicycle-showed-christ-wont-remove-trials
+legacySlug: 100-miles-bicycle-showed-christ-wont-remove-trials
 title: 100 Miles on a Bicycle Showed Me Why Christ Won't Remove Our Trials
 wordpress_id: 1898
 categories:

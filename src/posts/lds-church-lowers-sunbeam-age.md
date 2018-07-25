@@ -6,6 +6,7 @@ date: 2015-04-02 00:46:35+00:00
 layout: post
 link: http://mormonbuzzz.com/lds-church-lowers-sunbeam-age/
 slug: lds-church-lowers-sunbeam-age
+legacySlug: lds-church-lowers-sunbeam-age
 title: LDS Church Lowers Sunbeam Age
 wordpress_id: 267
 categories:

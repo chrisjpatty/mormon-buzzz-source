@@ -6,6 +6,7 @@ date: 2015-06-12 01:43:26+00:00
 layout: post
 link: http://mormonbuzzz.com/spouse-loses-faith/
 slug: spouse-loses-faith
+legacySlug: spouse-loses-faith
 title: 'Deciding To Love: Making It Through Your Spouse’s Faith Transition'
 wordpress_id: 829
 categories:

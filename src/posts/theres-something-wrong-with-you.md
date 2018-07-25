@@ -6,6 +6,7 @@ date: 2015-07-23 08:01:00+00:00
 layout: post
 link: http://mormonbuzzz.com/theres-something-wrong-with-you/
 slug: theres-something-wrong-with-you
+legacySlug: theres-something-wrong-with-you
 title: There's Something Wrong With You
 wordpress_id: 947
 categories:

@@ -6,6 +6,7 @@ date: 2016-06-30 00:21:26+00:00
 layout: post
 link: http://mormonbuzzz.com/one-cant-attend-temple/
 slug: one-cant-attend-temple
+legacySlug: one-cant-attend-temple
 title: To the One Who Can't Attend the Temple
 wordpress_id: 1795
 categories:

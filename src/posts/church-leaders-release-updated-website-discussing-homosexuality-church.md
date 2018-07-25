@@ -6,6 +6,7 @@ date: 2016-10-25 22:10:23+00:00
 layout: post
 link: http://mormonbuzzz.com/church-leaders-release-updated-website-discussing-homosexuality-church/
 slug: church-leaders-release-updated-website-discussing-homosexuality-church
+legacySlug: church-leaders-release-updated-website-discussing-homosexuality-church
 title: Church Leaders Release Updated Website Discussing Homosexuality and the Church.
 wordpress_id: 1991
 categories:

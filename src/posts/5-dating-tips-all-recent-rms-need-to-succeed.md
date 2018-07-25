@@ -6,6 +6,7 @@ date: 2015-08-22 19:37:58+00:00
 layout: post
 link: http://mormonbuzzz.com/5-dating-tips-all-recent-rms-need-to-succeed/
 slug: 5-dating-tips-all-recent-rms-need-to-succeed
+legacySlug: 5-dating-tips-all-recent-rms-need-to-succeed
 title: 5 Dating Tips All Recent RMs Need to Succeed
 wordpress_id: 1087
 categories:

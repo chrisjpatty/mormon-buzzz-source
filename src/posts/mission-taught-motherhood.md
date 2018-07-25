@@ -6,6 +6,7 @@ date: 2016-05-08 19:40:41+00:00
 layout: post
 link: http://mormonbuzzz.com/mission-taught-motherhood/
 slug: mission-taught-motherhood
+legacySlug: mission-taught-motherhood
 title: What My Mission Taught Me About Motherhood
 wordpress_id: 1633
 categories:

@@ -6,6 +6,7 @@ date: 2016-01-11 06:52:28+00:00
 layout: post
 link: http://mormonbuzzz.com/same-sex-handbook-changes-discussed-over-pulpit-for-the-first-time-during-ysa-devotional/
 slug: same-sex-handbook-changes-discussed-over-pulpit-for-the-first-time-during-ysa-devotional
+legacySlug: same-sex-handbook-changes-discussed-over-pulpit-for-the-first-time-during-ysa-devotional
 title: Same-Sex Policy Changes Discussed Over Pulpit for 1st Time During YA Devotional
 wordpress_id: 1403
 categories:

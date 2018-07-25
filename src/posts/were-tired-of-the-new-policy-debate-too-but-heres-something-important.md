@@ -6,6 +6,7 @@ date: 2015-11-08 01:49:53+00:00
 layout: post
 link: http://mormonbuzzz.com/were-tired-of-the-new-policy-debate-too-but-heres-something-important/
 slug: were-tired-of-the-new-policy-debate-too-but-heres-something-important
+legacySlug: were-tired-of-the-new-policy-debate-too-but-heres-something-important
 title: We're Tired of the New Policy Debate Too, but Here's Something Important
 wordpress_id: 1267
 categories:

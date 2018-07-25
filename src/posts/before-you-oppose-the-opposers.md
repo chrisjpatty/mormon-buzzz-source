@@ -6,6 +6,7 @@ date: 2015-04-05 18:56:06+00:00
 layout: post
 link: http://mormonbuzzz.com/before-you-oppose-the-opposers/
 slug: before-you-oppose-the-opposers
+legacySlug: before-you-oppose-the-opposers
 title: Before You Oppose The Opposers
 wordpress_id: 322
 categories:

@@ -6,6 +6,7 @@ date: 2015-06-25 00:01:57+00:00
 layout: post
 link: http://mormonbuzzz.com/when-you-thought-i-left/
 slug: when-you-thought-i-left
+legacySlug: when-you-thought-i-left
 title: When You Thought I Left
 wordpress_id: 899
 categories:

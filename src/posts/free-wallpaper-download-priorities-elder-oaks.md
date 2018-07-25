@@ -6,6 +6,7 @@ date: 2015-08-25 00:51:54+00:00
 layout: post
 link: http://mormonbuzzz.com/free-wallpaper-download-priorities-elder-oaks/
 slug: free-wallpaper-download-priorities-elder-oaks
+legacySlug: free-wallpaper-download-priorities-elder-oaks
 title: 'Free Wallpaper Download: Priorities - Elder Oaks'
 wordpress_id: 1114
 categories:

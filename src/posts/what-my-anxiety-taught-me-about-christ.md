@@ -6,6 +6,7 @@ date: 2015-11-15 06:59:46+00:00
 layout: post
 link: http://mormonbuzzz.com/what-my-anxiety-taught-me-about-christ/
 slug: what-my-anxiety-taught-me-about-christ
+legacySlug: what-my-anxiety-taught-me-about-christ
 title: What My Anxiety Taught Me About Christ
 wordpress_id: 1280
 categories:

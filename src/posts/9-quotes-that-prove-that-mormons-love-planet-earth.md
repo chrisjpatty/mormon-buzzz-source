@@ -6,6 +6,7 @@ date: 2015-04-22 22:49:33+00:00
 layout: post
 link: http://mormonbuzzz.com/9-quotes-that-prove-that-mormons-love-planet-earth/
 slug: 9-quotes-that-prove-that-mormons-love-planet-earth
+legacySlug: 9-quotes-that-prove-that-mormons-love-planet-earth
 title: 9 Quotes That Prove That Mormons Love Planet Earth
 wordpress_id: 474
 categories:

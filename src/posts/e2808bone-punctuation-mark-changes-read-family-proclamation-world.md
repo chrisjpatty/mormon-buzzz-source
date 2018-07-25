@@ -6,6 +6,7 @@ date: 2016-01-17 10:00:50+00:00
 layout: post
 link: http://mormonbuzzz.com/%e2%80%8bone-punctuation-mark-changes-read-family-proclamation-world/
 slug: '%e2%80%8bone-punctuation-mark-changes-read-family-proclamation-world'
+legacySlug: '%e2%80%8bone-punctuation-mark-changes-read-family-proclamation-world'
 title: '​One Punctuation Mark Changes How You Read "The Family: A Proclamation to
   the World"'
 wordpress_id: 1257

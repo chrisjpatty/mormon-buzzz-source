@@ -6,6 +6,7 @@ date: 2016-10-21 08:22:30+00:00
 layout: post
 link: http://mormonbuzzz.com/new-mormon-channel-music-video-will/
 slug: new-mormon-channel-music-video-will
+legacySlug: new-mormon-channel-music-video-will
 title: The Mormon Channel's New Music Video Will Remind You that God is Here
 wordpress_id: 1981
 categories:

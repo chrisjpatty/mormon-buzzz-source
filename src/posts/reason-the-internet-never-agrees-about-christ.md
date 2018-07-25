@@ -6,6 +6,7 @@ date: 2016-03-05 10:14:04+00:00
 layout: post
 link: http://mormonbuzzz.com/reason-the-internet-never-agrees-about-christ/
 slug: reason-the-internet-never-agrees-about-christ
+legacySlug: reason-the-internet-never-agrees-about-christ
 title: There's a Reason Why the Internet Never Agrees About Who Christ Was
 wordpress_id: 1512
 categories:

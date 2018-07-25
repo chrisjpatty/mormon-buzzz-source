@@ -6,6 +6,7 @@ date: 2015-03-31 00:55:09+00:00
 layout: post
 link: http://mormonbuzzz.com/10-ways-millennials-can-defend-family/
 slug: 10-ways-millennials-can-defend-family
+legacySlug: 10-ways-millennials-can-defend-family
 title: 10 Ways Millennials Can Defend the Family
 wordpress_id: 253
 categories:

@@ -6,6 +6,7 @@ date: 2015-09-22 07:28:58+00:00
 layout: post
 link: http://mormonbuzzz.com/the-terrible-advice-mormons-should-stop-giving/
 slug: the-terrible-advice-mormons-should-stop-giving
+legacySlug: the-terrible-advice-mormons-should-stop-giving
 title: The Terrible Advice Mormons Should Stop Giving
 wordpress_id: 1162
 categories:

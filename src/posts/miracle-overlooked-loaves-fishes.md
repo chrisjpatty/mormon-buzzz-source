@@ -6,6 +6,7 @@ date: 2016-04-28 00:35:09+00:00
 layout: post
 link: http://mormonbuzzz.com/miracle-overlooked-loaves-fishes/
 slug: miracle-overlooked-loaves-fishes
+legacySlug: miracle-overlooked-loaves-fishes
 title: The Miracle I Overlooked In the Story of the Loaves & Fishes
 wordpress_id: 1611
 categories:

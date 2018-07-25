@@ -6,6 +6,7 @@ date: 2016-05-23 23:59:52+00:00
 layout: post
 link: http://mormonbuzzz.com/powerful-new-mormon-message-discusses-returning-early-mission/
 slug: powerful-new-mormon-message-discusses-returning-early-mission
+legacySlug: powerful-new-mormon-message-discusses-returning-early-mission
 title: New Mormon Message Discusses Returning Home Early From Mission, Depression
 wordpress_id: 1697
 categories:

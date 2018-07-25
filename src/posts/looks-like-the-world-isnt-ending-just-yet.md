@@ -6,6 +6,7 @@ date: 2015-09-28 04:39:45+00:00
 layout: post
 link: http://mormonbuzzz.com/looks-like-the-world-isnt-ending-just-yet/
 slug: looks-like-the-world-isnt-ending-just-yet
+legacySlug: looks-like-the-world-isnt-ending-just-yet
 title: Looks Like the World Isn't Ending Just Yet
 wordpress_id: 1169
 categories:

@@ -6,6 +6,7 @@ date: 2016-03-23 01:26:19+00:00
 layout: post
 link: http://mormonbuzzz.com/jamesthemormon-back-american-idol-jenn-blosil/
 slug: jamesthemormon-back-american-idol-jenn-blosil
+legacySlug: jamesthemormon-back-american-idol-jenn-blosil
 title: Jamesthemormon and American Idol Jenn Blosil Have Unbelievable Missionary Moment
   While Making Easter Video
 wordpress_id: 1529

@@ -6,6 +6,7 @@ date: 2015-04-15 20:00:44+00:00
 layout: post
 link: http://mormonbuzzz.com/if-disney-princesses-were-sister-missionaries/
 slug: if-disney-princesses-were-sister-missionaries
+legacySlug: if-disney-princesses-were-sister-missionaries
 title: If Disney Princesses Were Sister Missionaries
 wordpress_id: 276
 categories:

@@ -6,6 +6,7 @@ date: 2016-05-22 00:32:14+00:00
 layout: post
 link: http://mormonbuzzz.com/simple-trick-automatically-silence-phone-at-church/
 slug: simple-trick-automatically-silence-phone-at-church
+legacySlug: simple-trick-automatically-silence-phone-at-church
 title: A Simple Trick to Automatically Mute Your Phone at Church
 wordpress_id: 1652
 categories:

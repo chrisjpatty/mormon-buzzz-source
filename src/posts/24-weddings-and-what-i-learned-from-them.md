@@ -6,6 +6,7 @@ date: 2015-09-19 08:34:52+00:00
 layout: post
 link: http://mormonbuzzz.com/24-weddings-and-what-i-learned-from-them/
 slug: 24-weddings-and-what-i-learned-from-them
+legacySlug: 24-weddings-and-what-i-learned-from-them
 title: 24 Weddings and What I Learned From Them
 wordpress_id: 1139
 categories:

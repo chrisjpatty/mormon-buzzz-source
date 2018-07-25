@@ -6,6 +6,7 @@ date: 2016-08-30 00:19:06+00:00
 layout: post
 link: http://mormonbuzzz.com/think-never-leave-church-think/
 slug: think-never-leave-church-think
+legacySlug: think-never-leave-church-think
 title: If You Think You Would Never Leave the Church, Think Again
 wordpress_id: 1889
 categories:

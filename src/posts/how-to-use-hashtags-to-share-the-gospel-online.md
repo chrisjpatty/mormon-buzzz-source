@@ -6,6 +6,7 @@ date: 2015-03-28 22:00:00+00:00
 layout: post
 link: http://mormonbuzzz.com/how-to-use-hashtags-to-share-the-gospel-online/
 slug: how-to-use-hashtags-to-share-the-gospel-online
+legacySlug: how-to-use-hashtags-to-share-the-gospel-online
 title: 'How To Use #hashtags To Share The Gospel Online'
 wordpress_id: 226
 tags:

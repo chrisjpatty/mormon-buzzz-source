@@ -6,6 +6,7 @@ date: 2015-10-06 11:54:53+00:00
 layout: post
 link: http://mormonbuzzz.com/elder-christofferson-did-something-surprising-this-weekend/
 slug: elder-christofferson-did-something-surprising-this-weekend
+legacySlug: elder-christofferson-did-something-surprising-this-weekend
 title: Elder Christofferson Did Something Surprising This Weekend
 wordpress_id: 1193
 categories:

@@ -6,6 +6,7 @@ date: 2015-07-30 19:26:42+00:00
 layout: post
 link: http://mormonbuzzz.com/why-i-stay-a-mormon-when-many-friends-have-left/
 slug: why-i-stay-a-mormon-when-many-friends-have-left
+legacySlug: why-i-stay-a-mormon-when-many-friends-have-left
 title: Why I Stay a Mormon When Many Friends Have Left
 wordpress_id: 1040
 categories:

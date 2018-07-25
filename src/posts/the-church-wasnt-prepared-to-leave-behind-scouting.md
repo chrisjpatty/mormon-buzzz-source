@@ -6,6 +6,7 @@ date: 2015-08-27 08:07:54+00:00
 layout: post
 link: http://mormonbuzzz.com/the-church-wasnt-prepared-to-leave-behind-scouting/
 slug: the-church-wasnt-prepared-to-leave-behind-scouting
+legacySlug: the-church-wasnt-prepared-to-leave-behind-scouting
 title: The Church Was Not Prepared to Leave Behind Scouting
 wordpress_id: 1128
 categories:

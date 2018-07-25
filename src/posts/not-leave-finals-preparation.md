@@ -6,6 +6,7 @@ date: 2015-04-19 20:53:05+00:00
 layout: post
 link: http://mormonbuzzz.com/not-leave-finals-preparation/
 slug: not-leave-finals-preparation
+legacySlug: not-leave-finals-preparation
 title: What Not to Leave Out of Your Finals Preparation
 wordpress_id: 445
 categories:

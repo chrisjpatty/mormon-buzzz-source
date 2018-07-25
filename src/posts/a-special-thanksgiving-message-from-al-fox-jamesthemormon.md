@@ -6,6 +6,7 @@ date: 2015-11-25 02:53:44+00:00
 layout: post
 link: http://mormonbuzzz.com/a-special-thanksgiving-message-from-al-fox-jamesthemormon/
 slug: a-special-thanksgiving-message-from-al-fox-jamesthemormon
+legacySlug: a-special-thanksgiving-message-from-al-fox-jamesthemormon
 title: A Special Thanksgiving Message from Al Fox & JamesTheMormon
 wordpress_id: 1288
 categories:
