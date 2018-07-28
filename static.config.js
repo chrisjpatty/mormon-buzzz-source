@@ -4,6 +4,7 @@ const path = require('path')
 const matter = require('gray-matter')
 const orderBy = require('lodash/orderby')
 const { getTop10Paths } = require('./analytics')
+const { format } = require('date-fns')
 
 function getPosts () {
   const items = []
@@ -20,7 +21,9 @@ function getPosts () {
             // Convert to frontmatter object and markdown content //
             const dataObj = matter(data)
             // Create slug for URL //
-            dataObj.data.slug = dataObj.data.slug || dataObj.data.title.toLowerCase().replace(/ /g, '-').replace(/[^\w-]+/g, '')
+            dataObj.data.slug = dataObj.data.legacySlug || dataObj.data.slug || dataObj.data.title.toLowerCase().replace(/ /g, '-').replace(/[^\w-]+/g, '')
+            // Format date
+            dataObj.data.formattedDate = format(dataObj.data.date, 'MM/DD/YYYY')
             // Remove unused key //
             delete dataObj.orig
             // Push object into items array //
@@ -44,7 +47,7 @@ function getPosts () {
 }
 
 const getTopPostsFromPaths = (paths, posts) =>
-  paths.map(path => posts.find(post => post.slug === path) || path)
+  paths.map(path => posts.find(post => post.slug === path)).filter(p=>p)
 
 
 export default {
@@ -63,8 +66,7 @@ export default {
         component: 'src/containers/Home',
         getData: () => ({
           posts: postPreviews,
-          topPosts,
-          topPaths
+          topPosts
         }),
         children: posts.map(post => ({
           path: `/${post.data.slug}`,

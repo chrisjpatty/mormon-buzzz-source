@@ -1,8 +1,10 @@
 import React from 'react'
-import { Router, Link } from 'react-static'
+import { Router } from 'react-static'
 import { hot } from 'react-hot-loader'
-//
+import { ThemeProvider } from 'emotion-theming'
+import theme from './theme'
 import Routes from 'react-static-routes'
+import Header from './components/Header'
 
 import './app.css'
 
@@ -17,16 +19,14 @@ class App extends React.Component{
   render(){
     return(
       <Router>
-        <div>
-          <nav>
-            <Link to="/">Home</Link>
-            <Link to="/about">About</Link>
-            <Link to="/blog">Blog</Link>
-          </nav>
-          <div className="content">
-            <Routes />
+        <ThemeProvider theme={theme}>
+          <div>
+            <Header />
+            <div className="content">
+              <Routes />
+            </div>
           </div>
-        </div>
+        </ThemeProvider>
       </Router>
     )
   }
