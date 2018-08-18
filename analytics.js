@@ -7,7 +7,7 @@ if(process.env.NODE_ENV === 'development'){
   KEY = require(PATH_TO_DEV_KEY)
 }
 
-const PRIVATE_KEY = KEY.private_key || process.env.PRIVATE_KEY;
+const PRIVATE_KEY = KEY.private_key || process.env.GTOKEN;
 const CLIENT_EMAIL = KEY.client_email || process.env.CLIENT_EMAIL;
 const SCOPES = 'https://www.googleapis.com/auth/analytics.readonly'
 const JWT = new google.auth.JWT(CLIENT_EMAIL, null, PRIVATE_KEY, SCOPES)
