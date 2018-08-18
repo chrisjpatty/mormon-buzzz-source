@@ -2,7 +2,7 @@ const {google} = require('googleapis');
 
 const PATH_TO_DEV_KEY = './KEY.json'
 let KEY;
-process.env.NODE_ENV = 'development'
+
 if(process.env.NODE_ENV === 'development'){
   KEY = require(PATH_TO_DEV_KEY)
 }
