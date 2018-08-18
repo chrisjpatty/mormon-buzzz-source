@@ -1,14 +1,14 @@
 const {google} = require('googleapis');
 
 const PATH_TO_DEV_KEY = './KEY.json'
-let KEY;
+let KEY = {};
 
 if(process.env.NODE_ENV === 'development'){
   KEY = require(PATH_TO_DEV_KEY)
 }
 
-const PRIVATE_KEY = process.env.NODE_ENV === 'development' ? KEY.private_key : process.env.PRIVATE_KEY;
-const CLIENT_EMAIL = process.env.NODE_ENV === 'development' ? KEY.client_email : process.env.CLIENT_EMAIL;
+const PRIVATE_KEY = KEY.private_key || process.env.PRIVATE_KEY;
+const CLIENT_EMAIL = KEY.client_email || process.env.CLIENT_EMAIL;
 const SCOPES = 'https://www.googleapis.com/auth/analytics.readonly'
 const JWT = new google.auth.JWT(CLIENT_EMAIL, null, PRIVATE_KEY, SCOPES)
 const VIEW_ID = '98761893'
