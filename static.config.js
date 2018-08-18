@@ -2,7 +2,7 @@ const fs = require('fs')
 const klaw = require('klaw')
 const path = require('path')
 const matter = require('gray-matter')
-const orderBy = require('lodash/orderby')
+const orderBy = require('lodash/orderBy')
 const { getTop10Paths } = require('./analytics')
 const { format } = require('date-fns')
 
