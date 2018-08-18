@@ -12,7 +12,6 @@ const CLIENT_EMAIL = KEY.client_email || process.env.CLIENT_EMAIL;
 const SCOPES = 'https://www.googleapis.com/auth/analytics.readonly'
 const JWT = new google.auth.JWT(CLIENT_EMAIL, null, PRIVATE_KEY, SCOPES)
 const VIEW_ID = '98761893'
-console.log(JWT.substring(0,15));
 const getTop10Paths = () => (
   new Promise(async (resolve, reject) => {
     JWT.authorize()
