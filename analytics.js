@@ -9,6 +9,7 @@ if(process.env.NODE_ENV === 'development'){
 
 const PRIVATE_KEY = KEY.private_key || process.env.PRIVATE_KEY;
 const CLIENT_EMAIL = KEY.client_email || process.env.CLIENT_EMAIL;
+console.log(PRIVATE_KEY.substring(0, 25), CLIENT_EMAIL);
 const SCOPES = 'https://www.googleapis.com/auth/analytics.readonly'
 const JWT = new google.auth.JWT(CLIENT_EMAIL, null, PRIVATE_KEY, SCOPES)
 const VIEW_ID = '98761893'
