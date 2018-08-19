@@ -1,16 +1,16 @@
 const {google} = require('googleapis');
 
-const PATH_TO_DEV_KEY = './KEY.json'
 let KEY = {};
 
 if(process.env.NODE_ENV === 'development'){
-  KEY = require(PATH_TO_DEV_KEY)
+  KEY = require('./KEY.json')
 }
 
 const PRIVATE_KEY = KEY.private_key || process.env.GTOKEN;
 const CLIENT_EMAIL = KEY.client_email || process.env.CLIENT_EMAIL;
 const SCOPES = ['https://www.googleapis.com/auth/analytics.readonly']
-const JWT = new google.auth.JWT(CLIENT_EMAIL, undefined, PRIVATE_KEY, SCOPES, null)
+const JWT = new google.auth.JWT(CLIENT_EMAIL, undefined, PRIVATE_KEY, SCOPES)
+console.log(PRIVATE_KEY.substring(60, 110), CLIENT_EMAIL.substring(5, 12), SCOPES);
 const VIEW_ID = '98761893'
 const getTop10Paths = () => (
   new Promise(async (resolve, reject) => {
