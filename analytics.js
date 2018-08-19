@@ -9,8 +9,8 @@ if(process.env.NODE_ENV === 'development'){
 
 const PRIVATE_KEY = KEY.private_key || process.env.GTOKEN;
 const CLIENT_EMAIL = KEY.client_email || process.env.CLIENT_EMAIL;
-const SCOPES = 'https://www.googleapis.com/auth/analytics.readonly'
-const JWT = new google.auth.JWT(CLIENT_EMAIL, null, PRIVATE_KEY, SCOPES)
+const SCOPES = ['https://www.googleapis.com/auth/analytics.readonly']
+const JWT = new google.auth.JWT(CLIENT_EMAIL, undefined, PRIVATE_KEY, SCOPES, null)
 const VIEW_ID = '98761893'
 const getTop10Paths = () => (
   new Promise(async (resolve, reject) => {
